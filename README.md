@@ -52,3 +52,4 @@ npm run preview
 
 Cart, favorites, orders, language and theme stay in `localStorage` under the same keys as the original site (`lale_cart`, `lale_favorites`, `lale_lang`, `lale_theme`, `lale_admin_products`).
 "# lale-gulleri" 
+"# lale-gulleri" 
